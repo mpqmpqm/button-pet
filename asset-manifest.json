@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/button-pet/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/button-pet/static/js/main.ac93581d.chunk.js",
+    "main.js.map": "/button-pet/static/js/main.ac93581d.chunk.js.map",
+    "runtime-main.js": "/button-pet/static/js/runtime-main.2346ab9c.js",
+    "runtime-main.js.map": "/button-pet/static/js/runtime-main.2346ab9c.js.map",
+    "static/js/2.9a3c2f58.chunk.js": "/button-pet/static/js/2.9a3c2f58.chunk.js",
+    "static/js/2.9a3c2f58.chunk.js.map": "/button-pet/static/js/2.9a3c2f58.chunk.js.map",
+    "index.html": "/button-pet/index.html",
+    "precache-manifest.4d3cc40a97e75aa3cf35d9a3e7ba9935.js": "/button-pet/precache-manifest.4d3cc40a97e75aa3cf35d9a3e7ba9935.js",
+    "service-worker.js": "/button-pet/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/button-pet/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.9a3c2f58.chunk.js.LICENSE": "/button-pet/static/js/2.9a3c2f58.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2346ab9c.js",
+    "static/js/2.9a3c2f58.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.ac93581d.chunk.js"
+  ]
+}
